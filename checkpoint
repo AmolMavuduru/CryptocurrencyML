@@ -1,2 +1,0 @@
-model_checkpoint_path: "bitcoin_price_model"
-all_model_checkpoint_paths: "bitcoin_price_model"
